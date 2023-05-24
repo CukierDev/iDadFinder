@@ -10,7 +10,7 @@ You these things to build it:
   .Net 6.0
   Some basic VS experience
 
-step 1. Download the iDadFinder code from github
-step 2. Open .sln file using VS
-step 3. go to Build>Build Solution
-step 4. And the program shloud be located in iDadFinder/Bin folder
+step 1. Download the iDadFinder code from github<br/>
+step 2. Open .sln file using VS<br/>
+step 3. go to Build>Build Solution<br/>
+step 4. And the program shloud be located in iDadFinder/Bin folder<br/>
