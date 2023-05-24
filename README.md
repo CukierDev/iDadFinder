@@ -5,7 +5,7 @@ Find your dad using advanced technology! (nah that's a joke ofc)
 if you are lazy you can download iDadFinder from Realeses
 
 ## Building
-You these things to build it:<br/>
+You will need these things to build it:<br/>
   VS 2022 (that is ready for c#)<br/>
   .Net 6.0<br/>
   Some basic VS experience<br/>
