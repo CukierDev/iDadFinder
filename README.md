@@ -2,7 +2,7 @@
 Find your dad using advanced technology! (nah that's a joke ofc)
 
 ## Downloading
-if you are lazy you can download iDadFinder from Realeses
+if you are lazy you can download iDadFinder from Realeses (win only!)
 
 ## Building
 You will need these things to build it:<br/>
