@@ -12,5 +12,5 @@ You will need these things to build it:<br/>
 
 step 1. Download the iDadFinder code from github<br/>
 step 2. Open .sln file using VS<br/>
-step 3. go to Build>Build Solution<br/>
+step 3. Go to Build>Build Solution<br/>
 step 4. And the program shloud be located in iDadFinder/Bin folder<br/>
